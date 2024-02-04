@@ -22,7 +22,7 @@
 <div align="center">
 
 ## Статистика Codewars:
-![Codewars](https://github.r2v.ch/codewars?user=GoncharenkoVitaliy)
+(https://github.r2v.ch/codewars?user=GoncharenkoVitaliy&name=true)
 
 ## Мой стек технологий  
 
