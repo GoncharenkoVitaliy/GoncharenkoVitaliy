@@ -31,12 +31,8 @@
 <a href="https://www.microsoft.com/ro-md/" target="_blank"><img style="margin: 10px" src="./windows-10.svg" alt="Linux" height="50" /></a>   <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a><a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a><a href="https://github.com/GoncharenkoVitaliy" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  <a href="https://prepros.io/" target="_blank"><img style="margin: 10px" src="./prepros.png" alt="prepros" height="50"/></a>     <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>      <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>      <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>      <a href="https://www.npmjs.com/package/json-server" target="_blank"><img style="margin: 10px" src="./JSONserver.jpg" alt="JSON-server" height="50" /></a>      <a href="https://fakestoreapi.com/" target="_blank"><img style="margin: 10px" src="./fakestoreapi.png" alt="fakestoreapi" height="50" /></a>
 
 
-## Статистика Codewars GoncharenkoVitaliy:
-<p align="center" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=GoncharenkoVitaliy" />
-    </a>
-</p>
+## Статистика Codewars:
+![Codewars](https://github.r2v.ch/codewars?user=GoncharenkoVitaliy)
 
 ***
 ## Связь со мной 
