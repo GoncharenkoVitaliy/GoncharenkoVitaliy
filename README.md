@@ -32,7 +32,11 @@
 
 
 ## Статистика Codewars GoncharenkoVitaliy:
-![Codewars](https://github.r2v.ch/codewars?user=GoncharenkoVitaliy&hide_clan=true)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=GoncharenkoVitaliy" />
+    </a>
+</p>
 
 ***
 ## Связь со мной 
