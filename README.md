@@ -21,8 +21,8 @@
 
 <div align="center">
 
-## Статистика Codewars:
-![Codewars](https://github.r2v.ch/codewars?user=dinifarb&theme=gradient)
+## Статистика Codewars GoncharenkoVitaliy:
+![Codewars](https://github.r2v.ch/codewars?user=GoncharenkoVitaliy&name=true&theme=gradient)
 
 ## Мой стек технологий  
 
