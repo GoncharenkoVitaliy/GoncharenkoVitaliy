@@ -17,6 +17,9 @@
 
 <div align="center">
 
+***
+## ТЕХНИЧЕСКИЕ РАБОТЫ  
+***
 ## Мой стек технологий  
 
 <a href="https://www.javascript.com/" target="_blank">
